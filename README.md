@@ -1,2 +1,1 @@
-# js-algos
-Algorithms written in JavaScript
+# Data Structures and Algorithm Solutions
